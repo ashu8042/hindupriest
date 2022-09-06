@@ -1,0 +1,271 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.landing-background-icon {
+  position: absolute;
+  top: 0.138vw;
+  left: 0;
+  width: 61.94vw;
+  height: 55.83vw;
+}
+.mahesh-mv-ovbtaeb0tcc-unsplash-icon {
+  position: absolute;
+  top: 0.138vw;
+  left: 29.58vw;
+  width: 70.41vw;
+  height: 55.97vw;
+  object-fit: cover;
+}
+.priest-icon,
+.whatsapp-image-2022-08-14-at-1 {
+  position: absolute;
+  top: 17.98vw;
+  left: 42.36vw;
+  width: 38.61vw;
+  height: 37.98vw;
+  object-fit: cover;
+}
+.whatsapp-image-2022-08-14-at-1 {
+  top: 2.91vw;
+  left: 10.13vw;
+  width: 9.16vw;
+  height: 8.95vw;
+}
+.hero-section-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 55.97vw;
+}
+.button,
+.get-quoute-b {
+  position: absolute;
+  left: 9.32vw;
+  width: 14.58vw;
+  font-size: 1.5vw;
+}
+.button {
+  border: 0;
+  padding: 0;
+  background-color: #ff782c;
+  top: 37.61vw;
+  border-radius: 6.94vw;
+  height: 4.81vw;
+}
+.get-quoute-b {
+  top: 39.19vw;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 1.65vw;
+}
+.enriched-experience-b {
+  text-decoration: underline;
+  font-family: Inter;
+  color: #f17c3b;
+}
+.n-enriched-experience-for-all {
+  text-transform: lowercase;
+}
+.gujarati-pandi-providing-an-e {
+  position: absolute;
+  top: 31.76vw;
+  left: 9.72vw;
+  font-size: 1.31vw;
+  display: inline-block;
+  width: 33.37vw;
+  height: 3.16vw;
+}
+.pt-keyur-kumar-raval {
+  position: absolute;
+  top: 23.61vw;
+  left: 9.72vw;
+  font-size: 3.88vw;
+  display: flex;
+  font-family: Cambria;
+  align-items: center;
+  width: 38.50vw;
+  height: 4.53vw;
+}
+.hero-section-div {
+  position: relative;
+  width: 100vw;
+  height: 55.97vw;
+  flex-shrink: 0;
+  font-family: Inter;
+}
+.rupixen-com-tsucfafi3lu-unspla-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 51.38vw;
+  object-fit: cover;
+}
+.box-2-div,
+.orange-highlight-2 {
+  position: absolute;
+  left: 54.20vw;
+  width: 30.13vw;
+}
+.box-2-div {
+  top: 28.68vw;
+  border-radius: 1.73vw;
+  background-color: #fff;
+  box-shadow: 0 9px 18px 2px rgba(0, 0, 0, 0.25);
+  height: 47.84vw;
+}
+.orange-highlight-2 {
+  top: 72.84vw;
+  border-radius: 0 0 1.73vw 1.73vw;
+  background-color: #f17c3b;
+  height: 3.68vw;
+}
+.annaprashan-sanskar {
+  margin-block-start: 0;
+  margin-block-end: 1.04vw;
+}
+.simant-sanskar-baby {
+  margin: 0;
+}
+.annaprashan-sanskar-chaul-karm {
+  position: absolute;
+  top: 36.04vw;
+  left: 59.66vw;
+  display: inline-block;
+  width: 19.22vw;
+}
+.box-1-div,
+.orange-highlight-1 {
+  position: absolute;
+  left: 15.33vw;
+  width: 30.13vw;
+}
+.box-1-div {
+  top: 28.68vw;
+  border-radius: 1.73vw;
+  background-color: #fff;
+  box-shadow: 0 9px 18px 2px rgba(0, 0, 0, 0.25);
+  height: 47.84vw;
+}
+.orange-highlight-1 {
+  top: 72.84vw;
+  border-radius: 0 0 1.73vw 1.73vw;
+  background-color: #f17c3b;
+  height: 3.68vw;
+}
+.shri-satyanarayan-puja-shri-sa {
+  position: absolute;
+  top: 36.04vw;
+  left: 22.67vw;
+  display: inline-block;
+  width: 15.45vw;
+}
+.span {
+  color: #f17c3b;
+}
+.i-provide-a-range-of-services,
+.see-all-the-sacred-hassle-free {
+  position: absolute;
+  top: 19.09vw;
+  left: 31.13vw;
+  font-size: 1.59vw;
+  display: inline-block;
+  color: #fff;
+}
+.i-provide-a-range-of-services {
+  top: 12.91vw;
+  left: 23.28vw;
+  font-size: 4.09vw;
+}
+.services-div {
+  position: relative;
+  width: 100vw;
+  height: 76.52vw;
+  flex-shrink: 0;
+  text-align: center;
+  color: #000;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 100vw;
+  height: 19.72vw;
+}
+.pt-keyur-kumar-raval1 {
+  margin-block-start: 0;
+  margin-block-end: 1.38vw;
+}
+.gujarati-pandit-providing-an {
+  margin: 0;
+  font-size: 1.38vw;
+}
+.pt-keyur-kumar-raval-gujarati {
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 20.83vw;
+  flex-shrink: 0;
+}
+.p,
+.talk-to-me {
+  margin-block-start: 0;
+  margin-block-end: 0.69vw;
+}
+.p {
+  font-size: 1.38vw;
+}
+.talk-to-me-647-269-4846-nama {
+  color: #f17c3b;
+}
+.address-66-millstone-drive-bra,
+.talk-to-me-647-269-4846-nama {
+  position: relative;
+  display: inline-block;
+  width: 17.15vw;
+  flex-shrink: 0;
+}
+.bottom-bar-div {
+  position: absolute;
+  top: 5.27vw;
+  left: 19.23vw;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.26vw;
+}
+.footer-div {
+  position: relative;
+  width: 100vw;
+  height: 0.19vw;
+  flex-shrink: 0;
+  font-size: 1.66vw;
+  color: #525252;
+  margin-top: 2.77vw;
+}
+.frame-div {
+  position: absolute;
+  top: -0.13vw;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.desktop-1 {
+  position: relative;
+  background-color: #fff;
+  width: 100vw;
+  height: 152.08vw;
+  overflow: hidden;
+  text-align: left;
+  font-size: 1.38vw;
+  color: #fff;
+  font-family: Cambria;
+}
